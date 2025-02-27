@@ -24,7 +24,7 @@ class B extends A {
 	int x = 30;
 	int z = 40;
 
-	public void m1() {
+	public void m12() {
 		System.out.println("m1--B");
 
 	}
